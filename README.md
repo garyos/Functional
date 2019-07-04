@@ -5,3 +5,5 @@ This is the programming exercise for the [IWOMM](https://www.meetup.com/itworkso
 You are presented with an imperative application. Your task is to rewrite the application using your functional programming skills!
 
 You can find the Java version of the exercise in the `java` directory and the Python in the `python` directory. Have fun!
+
+functional python 2nd edition examples with notes in subfolder
